@@ -1,4 +1,4 @@
-# 🖼️ Enhanced Picture Gallery
+# 🖼️ Picture Gallery
 
 A modern, feature-rich picture gallery with dark/light themes, upload functionality, and advanced user interactions.
 
